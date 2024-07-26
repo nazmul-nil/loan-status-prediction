@@ -1,11 +1,2 @@
-"# Loan Status Prediction" 
-"# Workflow " 
-"Load Data" 
-"Data Pre-processing" 
-"Train-Test-Split" 
-"Use os Support Vector Machine Model" 
-"Prediction Stage" 
-"New Data" 
-"Trained Model" 
-"Prediction" 
-# Dataset Introduction 
+# Loan Status Prediction 
+## Dataset Introduction 
